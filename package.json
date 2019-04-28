@@ -10,7 +10,6 @@
   },
   "homepage": "https://jhgarrett.github.io/react-clicky-game/",
   "scripts": {
-    "deploy": "gh-pages -d build",
     "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
