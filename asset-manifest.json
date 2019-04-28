@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-clicky-game/static/css/main.7adabc00.chunk.css",
+    "main.js": "/react-clicky-game/static/js/main.7f1a120c.chunk.js",
+    "main.js.map": "/react-clicky-game/static/js/main.7f1a120c.chunk.js.map",
+    "runtime~main.js": "/react-clicky-game/static/js/runtime~main.a57faf00.js",
+    "runtime~main.js.map": "/react-clicky-game/static/js/runtime~main.a57faf00.js.map",
+    "static/js/2.76d8ed81.chunk.js": "/react-clicky-game/static/js/2.76d8ed81.chunk.js",
+    "static/js/2.76d8ed81.chunk.js.map": "/react-clicky-game/static/js/2.76d8ed81.chunk.js.map",
+    "index.html": "/react-clicky-game/index.html",
+    "precache-manifest.3b46c88e1f02362da4302b9c922a1fd8.js": "/react-clicky-game/precache-manifest.3b46c88e1f02362da4302b9c922a1fd8.js",
+    "service-worker.js": "/react-clicky-game/service-worker.js",
+    "static/css/main.7adabc00.chunk.css.map": "/react-clicky-game/static/css/main.7adabc00.chunk.css.map",
+    "static/media/beth.png": "/react-clicky-game/static/media/beth.4d5e65a0.png",
+    "static/media/Banner.css": "/react-clicky-game/static/media/bg.76b792c8.png",
+    "static/media/birdperson.png": "/react-clicky-game/static/media/birdperson.612ba8d4.png",
+    "static/media/evilmorty.png": "/react-clicky-game/static/media/evilmorty.0657e1f4.png",
+    "static/media/gianthead.png": "/react-clicky-game/static/media/gianthead.978b3847.png",
+    "static/media/goldenford.png": "/react-clicky-game/static/media/goldenford.3774b39d.png",
+    "static/media/jerry.png": "/react-clicky-game/static/media/jerry.af8e8a84.png",
+    "static/media/jessica.png": "/react-clicky-game/static/media/jessica.a9644830.png",
+    "static/media/meeseeks.png": "/react-clicky-game/static/media/meeseeks.9667b7ee.png",
+    "static/media/morty.png": "/react-clicky-game/static/media/morty.244deeda.png",
+    "static/media/mr.png": "/react-clicky-game/static/media/mr.d61b2d5b.png",
+    "static/media/rick.png": "/react-clicky-game/static/media/rick.06b65841.png",
+    "static/media/summer.png": "/react-clicky-game/static/media/summer.afdbb7bf.png"
+  }
+}
