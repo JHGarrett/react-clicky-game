@@ -7,7 +7,7 @@ const textStyle = {
 }
 const Footer = () => (
   <div className="footer text-center">
-    <a style={textStyle} href="https://github.com/JHGarrett" target="_blank">
+    <a style={textStyle} href="https://github.com/JHGarrett">
       @John Garrett
     </a>
   </div>
